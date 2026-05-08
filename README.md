@@ -1,2 +1,2 @@
-# MachineLearningAlgorithms
-Machine Learning Algorithms
+# Machine Learning Codes
+Machine Learning Codes
